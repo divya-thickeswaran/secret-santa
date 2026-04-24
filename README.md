@@ -6,9 +6,9 @@
 ## Backend
 - cd backend
 - npm install
-- node src/app.js
+- npm run dev
 
 ## Frontend
 - cd frontend
 - npm install
-- npm start
+- npm run dev
