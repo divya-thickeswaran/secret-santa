@@ -9,6 +9,6 @@
 - npm run dev
 
 ## Frontend
-- cd frontend
+- cd frontend/santa-frontend-app
 - npm install
 - npm run dev
